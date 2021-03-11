@@ -119,7 +119,7 @@ class _LandingPageState extends State<LandingPage> {
             GestureDetector(
               onTap: () {
                 _launchURL(
-                    "https://drive.google.com/file/d/1-lgfUcURdSwpik3HiNHEouYihYjDepGp/view?usp=sharing");
+                    "https://drive.google.com/file/d/1fhcmEpH8Cqkk7oiGdgGJHK3lViAjV86D/view?usp=sharing");
               },
               child: Container(
                 padding: EdgeInsets.symmetric(horizontal: 24, vertical: 12),
